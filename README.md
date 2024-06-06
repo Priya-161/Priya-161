@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left">
-<a href="https://linkedin.com/priya-gupta-068b4624b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priya-gupta-068b4624b" height="30" width="40" /></a>
+<a href="linkedin.com/in/priya-gupta-068b4624b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priya-gupta-068b4624b" height="30" width="40" /></a>
 <a href="https://kaggle.com/priyagupta7861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="priyagupta7861" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/priyagupta161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="priyagupta161" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/1priyagupta2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="1priyagupta2003" height="30" width="40" /></a>
