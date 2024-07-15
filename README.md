@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **1priyagupta2003@gmail.com**
 
-- 📄 Know about my experiences [https://cyan-alejandrina-38.tiiny.site/](https://cyan-alejandrina-38.tiiny.site/)
+- 📄 Know about my experiences [https://cyan-alejandrina-38.tiiny.site/](https://scarlet-liva-32.tiiny.site/)
 
 - ⚡ Fun fact **I think i am Euphoria!**
 
